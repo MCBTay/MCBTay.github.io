@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "ReactJS Tutorial"
-date:   2021-09-04 22:59:17 -0400
+title:  "A Todo App in ReactJS"
+date:   2021-09-04 16:59:17 -0500
 categories: reactjs javascript
 ---
 
