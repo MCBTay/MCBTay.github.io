@@ -30,7 +30,7 @@ twitter_username:
 github_username:  MCBTay
 
 # Build settings
-theme: tactile
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
