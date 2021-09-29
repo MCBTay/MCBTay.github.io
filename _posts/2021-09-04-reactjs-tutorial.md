@@ -10,7 +10,7 @@ I've done some basic web work in the past, generally with Wordpress.  So the Jav
 
 There was really no rime or reason as to why I picked React first.  It just seemed like the most interesting from what little I knew about the top JavaScript frameworks.  Throughout this experience I'm hoping to tinker and play with a few JavaScript frameworks as well as other more web-based frameworks.  At the moment I'm planning on React (clearly), Angular, Vue.js and Blazor.
 
-Anywho - let's cut to the chase.
+### Anywho - let's cut to the chase.
 
 I figured that there probably wasn't a much better place to start than the [official React website's tutorial](https://reactjs.org/tutorial/tutorial.html).  If you don't know (or haven't clicked that link), this tutorial is to create a simple game of tic-tac-toe.
 
